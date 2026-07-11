@@ -1,16 +1,16 @@
-## Hi there 👋
+# Brandon Giesey
 
-<!--
-**Nodnarb94/Nodnarb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software.
 
-Here are some ideas to get you started:
+Most of the repositories here exist because I got tired of doing something manually, wanted to learn how something worked, or thought "I bet I could build that."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- Full-stack applications
+- Automation
+- APIs
+- Desktop software
+- Building a freelance portfolio
+
+Everything here is a work in progress.
+
+That's kind of the point.
