@@ -2,15 +2,8 @@
 
 I build software.
 
-Most of the repositories here exist because I got tired of doing something manually, wanted to learn how something worked, or thought "I bet I could build that."
+I don;t care for unsweet tea. 
 
-Current focus:
-- Full-stack applications
-- Automation
-- APIs
-- Desktop software
-- Building a freelance portfolio
-
+Most of the repositories here exist because I got tired of doing something manually.
 Everything here is a work in progress.
-
 That's kind of the point.
